@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ThreadsConsumerProducerConfitionalLocsk/ConsumerProducerConfitionalLocsk.iml" filepath="$PROJECT_DIR$/ThreadsConsumerProducerConfitionalLocsk/ConsumerProducerConfitionalLocsk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads/ThreadsConsumerProducerConfitionalLocsk/ConsumerProducerConfitionalLocsk.iml" filepath="$PROJECT_DIR$/Threads/ThreadsConsumerProducerConfitionalLocsk/ConsumerProducerConfitionalLocsk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads/CountDownLatch/CountDownLatch.iml" filepath="$PROJECT_DIR$/Threads/CountDownLatch/CountDownLatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Semaphores/Semaphores.iml" filepath="$PROJECT_DIR$/Semaphores/Semaphores.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ThreadsReentrantLock/ThreadsReentrantLock.iml" filepath="$PROJECT_DIR$/ThreadsReentrantLock/ThreadsReentrantLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads/Semaphores/Semaphores.iml" filepath="$PROJECT_DIR$/Threads/Semaphores/Semaphores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads/SemaphoresMultipleCopiesOfAResource/SemaphoresMultipleCopiesOfAResource.iml" filepath="$PROJECT_DIR$/Threads/SemaphoresMultipleCopiesOfAResource/SemaphoresMultipleCopiesOfAResource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringIntegrationDemo/SpringIntegrationDemo.iml" filepath="$PROJECT_DIR$/SpringIntegrationDemo/SpringIntegrationDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads/Threads.iml" filepath="$PROJECT_DIR$/Threads/Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads/ThreadsReentrantLock/ThreadsReentrantLock.iml" filepath="$PROJECT_DIR$/Threads/ThreadsReentrantLock/ThreadsReentrantLock.iml" />
     </modules>
   </component>
 </project>
