@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Threads/ThreadsConsumerProducerConfitionalLocsk/ConsumerProducerConfitionalLocsk.iml" filepath="$PROJECT_DIR$/Threads/ThreadsConsumerProducerConfitionalLocsk/ConsumerProducerConfitionalLocsk.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads/CountDownLatch/CountDownLatch.iml" filepath="$PROJECT_DIR$/Threads/CountDownLatch/CountDownLatch.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads/CyclicBarrier/CyclicBarrier.iml" filepath="$PROJECT_DIR$/Threads/CyclicBarrier/CyclicBarrier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads/CyclicBarries.iml" filepath="$PROJECT_DIR$/Threads/CyclicBarries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSamples.iml" filepath="$PROJECT_DIR$/JavaSamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads/Semaphores/Semaphores.iml" filepath="$PROJECT_DIR$/Threads/Semaphores/Semaphores.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads/SemaphoresMultipleCopiesOfAResource/SemaphoresMultipleCopiesOfAResource.iml" filepath="$PROJECT_DIR$/Threads/SemaphoresMultipleCopiesOfAResource/SemaphoresMultipleCopiesOfAResource.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringIntegrationDemo/SpringIntegrationDemo.iml" filepath="$PROJECT_DIR$/SpringIntegrationDemo/SpringIntegrationDemo.iml" />
