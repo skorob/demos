@@ -2,19 +2,22 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Threads/Callable/Callable.iml" filepath="$PROJECT_DIR$/Threads/Callable/Callable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads/ThreadsConsumerProducerConfitionalLocsk/ConsumerProducerConfitionalLocsk.iml" filepath="$PROJECT_DIR$/Threads/ThreadsConsumerProducerConfitionalLocsk/ConsumerProducerConfitionalLocsk.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads/CountDownLatch/CountDownLatch.iml" filepath="$PROJECT_DIR$/Threads/CountDownLatch/CountDownLatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads/CyclicBarrier/CyclicBarrier.iml" filepath="$PROJECT_DIR$/Threads/CyclicBarrier/CyclicBarrier.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Threads/CyclicBarries.iml" filepath="$PROJECT_DIR$/Threads/CyclicBarries.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads/Exchanger/Exchanger.iml" filepath="$PROJECT_DIR$/Threads/Exchanger/Exchanger.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads/ExtendedParser/ExtendedParser.iml" filepath="$PROJECT_DIR$/Threads/ExtendedParser/ExtendedParser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads/FirstResultMultipleTasks.iml" filepath="$PROJECT_DIR$/Threads/FirstResultMultipleTasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSamples.iml" filepath="$PROJECT_DIR$/JavaSamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads/Phaser/Phaser.iml" filepath="$PROJECT_DIR$/Threads/Phaser/Phaser.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads/Semaphores/Semaphores.iml" filepath="$PROJECT_DIR$/Threads/Semaphores/Semaphores.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads/SemaphoresMultipleCopiesOfAResource/SemaphoresMultipleCopiesOfAResource.iml" filepath="$PROJECT_DIR$/Threads/SemaphoresMultipleCopiesOfAResource/SemaphoresMultipleCopiesOfAResource.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringIntegrationDemo/SpringIntegrationDemo.iml" filepath="$PROJECT_DIR$/SpringIntegrationDemo/SpringIntegrationDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads/ThreadExecutor/ThreadExecutor.iml" filepath="$PROJECT_DIR$/Threads/ThreadExecutor/ThreadExecutor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads/Threads.iml" filepath="$PROJECT_DIR$/Threads/Threads.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads/ThreadsReentrantLock/ThreadsReentrantLock.iml" filepath="$PROJECT_DIR$/Threads/ThreadsReentrantLock/ThreadsReentrantLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads/ThreadsSamples.iml" filepath="$PROJECT_DIR$/Threads/ThreadsSamples.iml" />
     </modules>
   </component>
 </project>
