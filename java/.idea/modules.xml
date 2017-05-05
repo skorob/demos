@@ -9,9 +9,12 @@
       <module fileurl="file://$PROJECT_DIR$/Threads/CyclicBarrier/CyclicBarrier.iml" filepath="$PROJECT_DIR$/Threads/CyclicBarrier/CyclicBarrier.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads/PhaserExchanger/Exchanger.iml" filepath="$PROJECT_DIR$/Threads/PhaserExchanger/Exchanger.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads/ExtendedParser/ExtendedParser.iml" filepath="$PROJECT_DIR$/Threads/ExtendedParser/ExtendedParser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Featrues/Featrues.iml" filepath="$PROJECT_DIR$/Featrues/Featrues.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads/FirstResultMultipleTasksNewCachedThreadPool.iml" filepath="$PROJECT_DIR$/Threads/FirstResultMultipleTasksNewCachedThreadPool.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads/ForkJoin/ForkJoin.iml" filepath="$PROJECT_DIR$/Threads/ForkJoin/ForkJoin.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSamples.iml" filepath="$PROJECT_DIR$/JavaSamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Featrues/Labmda/Labmda.iml" filepath="$PROJECT_DIR$/Featrues/Labmda/Labmda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Featrues/Lambda.iml" filepath="$PROJECT_DIR$/Featrues/Lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads/Phaser/Phaser.iml" filepath="$PROJECT_DIR$/Threads/Phaser/Phaser.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads/Semaphores/Semaphores.iml" filepath="$PROJECT_DIR$/Threads/Semaphores/Semaphores.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads/SemaphoresMultipleCopiesOfAResource/SemaphoresMultipleCopiesOfAResource.iml" filepath="$PROJECT_DIR$/Threads/SemaphoresMultipleCopiesOfAResource/SemaphoresMultipleCopiesOfAResource.iml" />
