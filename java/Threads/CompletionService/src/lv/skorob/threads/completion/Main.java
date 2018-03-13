@@ -13,7 +13,7 @@ public class Main {
         ReportRequest faceRequest=new ReportRequest("Face", service);
         ReportRequest onlineRequest=new ReportRequest("Online",
             service);
-        Thread faceThread=new Thread(faceRequest);
+        Thread faceThread=new  Thread(faceRequest);
         Thread onlineThread=new Thread(onlineRequest);
 
         ReportProcessor processor=new ReportProcessor(service);
